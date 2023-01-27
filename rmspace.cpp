@@ -1,6 +1,8 @@
 //version 1.1
+
 //TODO: add an option (through command like flag i.e. -s) to allow
 //a character besides - to be chosen. (- will still be the default)
+
 #include <cstdio>
 #include <cstring>
 using namespace std;
