@@ -1,4 +1,7 @@
 //version 1.1
+//This is a program to remove the spaces from filenames and replace it
+//with a '-' character. (i.e. "foo bar" to "foo-bar").
+//It is called like `rmspace "file name" "foo bar"` and accepts multiple filenames.
 
 //TODO: add an option (through command like flag i.e. -s) to allow
 //a character besides - to be chosen. (- will still be the default)
